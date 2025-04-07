@@ -1,0 +1,3 @@
+- O TCC exige uma revisão bibliográfica extensa.
+- A IA pode ajudar a cruzar dados entre diferentes artigos.
+- O uso de embeddings facilita a busca por similaridade textual.
